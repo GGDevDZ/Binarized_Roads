@@ -19,6 +19,6 @@ Contains the original binarized road parts for **Chernarus, Livonia, and Sakhal*
 ## ↳📁 `P:/Temp/dz` Example:
 
 > [!IMPORTANT]
-> When packing your project your `P:/temp` needs to contain a copy of these binarize road parts within their respective folders within `temp`. (i.e. `P:/temp/dz/structures/roads/parts` must contain the used Chernarus parts you have in your project); so on so forth with Enoch & Sakhal having their own respective directories within the `temp` folder as well.
+> When packing your project your `P:/temp` needs to contain a copy of these binarized road parts   `.p3d` files within their respective folders within `temp`. (i.e. `P:/temp/dz/structures/roads/parts` must contain the used Chernarus parts you have in your project); so on so forth with Enoch & Sakhal having their own respective directories within the `temp` folder as well.
 
 <img src="example.png" width="450">
